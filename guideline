@@ -1,0 +1,8 @@
+,Num,Property ,Input,,,,,,,,,,,,,,,Pass
+start,0,property_a,.enable,`ENABLE,.clock,`CLOCK,.reset_n,`RESET_N,.num_in,`NUM_IN_SIGNAL,_num,0,.num_out,`NUM_OUT_SIGNAL,_num,0,_end,
+,1,property_a,.enable,`ENABLE,.clock,`CLOCK,.reset_n,`RESET_N,.num_in,`NUM_IN_SIGNAL,_num,1,.num_out,`NUM_OUT_SIGNAL,_num,1,_end,
+,2,property_a,.enable,`ENABLE,.clock,`CLOCK,.reset_n,`RESET_N,.num_in,`NUM_IN_SIGNAL,_num,2,.num_out,`NUM_OUT_SIGNAL,_num,2,_end,
+stop,3,property_a,.enable,`ENABLE,.clock,`CLOCK,.reset_n,`RESET_N,.num_in,`NUM_IN_SIGNAL,_num,3,.num_out,`NUM_OUT_SIGNAL,_num,3,_end,
+ignore,4,property_b,.enable,`ENABLE,.clock,`CLOCK,.reset_n,`RESET_N,`SPECIAL_IN_SIGNAL[18],.status_reg,`STATUS_REG_3,_end,,,,,,
+special,5,property_c,.special_in,`SPECIAL_IN_SIGNAL[20],.status_reg,`STATUS_REG_1,_end,,,,,,,,,,,
+special,6,property_d,.special_in,`SPECIAL_IN_SIGNAL[19],.status_reg,`STATUS_REG_2,_end,,,,,,,,,,,
