@@ -1,6 +1,6 @@
 # SVA_GEN
 An SVA generator from SVA file using Cshell
-* Keyword: ignore, special,start, stop, _num, _end.
+* Keyword: ignore, special, start, stop, _num, _end.
 * For ignoring an property: add ignore keyword in the first column of that assertions. 
 * For unique property: add special keyword in the first column of that assertions. (not required)
 * When using multiple assertions:                     
