@@ -73,5 +73,5 @@ else
        @ row = $row  + 1
    end
    sed -e "s/
-//" $dest $dest     #remove carriage return characters
+//" $dest $dest     #remove carriage return characters Ctrl+v -> Ctrl + m
 endif
